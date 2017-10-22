@@ -1,0 +1,6 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Phonebook\obj\Debug\Phonebook.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Phonebook\obj\Debug\Phonebook.pdb

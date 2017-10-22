@@ -1,0 +1,5 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\intigerToHexAndBinary\bin\Debug\intigerToHexAndBinary.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\intigerToHexAndBinary\bin\Debug\intigerToHexAndBinary.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\intigerToHexAndBinary\bin\Debug\intigerToHexAndBinary.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\intigerToHexAndBinary\obj\Debug\intigerToHexAndBinary.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\intigerToHexAndBinary\obj\Debug\intigerToHexAndBinary.pdb

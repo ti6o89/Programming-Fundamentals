@@ -1,0 +1,6 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.csprojResolveAssemblyReference.cache

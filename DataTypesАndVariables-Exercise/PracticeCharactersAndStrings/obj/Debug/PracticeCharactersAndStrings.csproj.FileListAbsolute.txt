@@ -1,0 +1,5 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\PracticeCharactersAndStrings\bin\Debug\PracticeCharactersAndStrings.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\PracticeCharactersAndStrings\obj\Debug\PracticeCharactersAndStrings.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\PracticeCharactersAndStrings\obj\Debug\PracticeCharactersAndStrings.pdb

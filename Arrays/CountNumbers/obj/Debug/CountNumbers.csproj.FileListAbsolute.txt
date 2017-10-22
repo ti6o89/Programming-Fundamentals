@@ -1,0 +1,6 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\CountNumbers\bin\Debug\CountNumbers.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\CountNumbers\bin\Debug\CountNumbers.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\CountNumbers\bin\Debug\CountNumbers.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\CountNumbers\obj\Debug\CountNumbers.csprojResolveAssemblyReference.cache
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\CountNumbers\obj\Debug\CountNumbers.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\CountNumbers\obj\Debug\CountNumbers.pdb

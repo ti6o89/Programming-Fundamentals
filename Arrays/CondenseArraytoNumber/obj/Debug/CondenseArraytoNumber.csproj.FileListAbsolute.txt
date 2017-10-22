@@ -1,0 +1,6 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\CondenseArraytoNumber\bin\Debug\CondenseArraytoNumber.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\CondenseArraytoNumber\bin\Debug\CondenseArraytoNumber.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\CondenseArraytoNumber\bin\Debug\CondenseArraytoNumber.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\CondenseArraytoNumber\obj\Debug\CondenseArraytoNumber.csprojResolveAssemblyReference.cache
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\CondenseArraytoNumber\obj\Debug\CondenseArraytoNumber.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\CondenseArraytoNumber\obj\Debug\CondenseArraytoNumber.pdb

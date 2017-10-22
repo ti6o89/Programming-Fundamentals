@@ -1,0 +1,6 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\refactorVolumeOfPyramid\bin\Debug\refactorVolumeOfPyramid.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\refactorVolumeOfPyramid\bin\Debug\refactorVolumeOfPyramid.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\refactorVolumeOfPyramid\bin\Debug\refactorVolumeOfPyramid.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\refactorVolumeOfPyramid\obj\Debug\refactorVolumeOfPyramid.csprojResolveAssemblyReference.cache
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\refactorVolumeOfPyramid\obj\Debug\refactorVolumeOfPyramid.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\refactorVolumeOfPyramid\obj\Debug\refactorVolumeOfPyramid.pdb

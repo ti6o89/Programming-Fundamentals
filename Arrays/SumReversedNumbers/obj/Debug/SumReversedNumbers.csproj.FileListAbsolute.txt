@@ -1,0 +1,6 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\SumReversedNumbers\bin\Debug\SumReversedNumbers.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\SumReversedNumbers\bin\Debug\SumReversedNumbers.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\SumReversedNumbers\bin\Debug\SumReversedNumbers.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\SumReversedNumbers\obj\Debug\SumReversedNumbers.csprojResolveAssemblyReference.cache
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\SumReversedNumbers\obj\Debug\SumReversedNumbers.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\SumReversedNumbers\obj\Debug\SumReversedNumbers.pdb

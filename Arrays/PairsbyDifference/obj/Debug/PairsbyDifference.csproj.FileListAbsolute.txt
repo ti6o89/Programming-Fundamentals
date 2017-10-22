@@ -1,0 +1,6 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\PairsbyDifference\bin\Debug\PairsbyDifference.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\PairsbyDifference\bin\Debug\PairsbyDifference.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\PairsbyDifference\bin\Debug\PairsbyDifference.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\PairsbyDifference\obj\Debug\PairsbyDifference.csprojResolveAssemblyReference.cache
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\PairsbyDifference\obj\Debug\PairsbyDifference.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\PairsbyDifference\obj\Debug\PairsbyDifference.pdb

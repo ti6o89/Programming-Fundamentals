@@ -1,0 +1,6 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.csprojResolveAssemblyReference.cache
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.pdb

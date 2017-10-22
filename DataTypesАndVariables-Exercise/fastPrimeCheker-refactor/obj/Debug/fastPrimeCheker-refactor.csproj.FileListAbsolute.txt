@@ -1,0 +1,5 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\fastPrimeCheker-refactor\bin\Debug\fastPrimeCheker-refactor.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\fastPrimeCheker-refactor\bin\Debug\fastPrimeCheker-refactor.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\fastPrimeCheker-refactor\bin\Debug\fastPrimeCheker-refactor.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\fastPrimeCheker-refactor\obj\Debug\fastPrimeCheker-refactor.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\fastPrimeCheker-refactor\obj\Debug\fastPrimeCheker-refactor.pdb

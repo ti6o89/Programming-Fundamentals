@@ -1,0 +1,5 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\SquareNumbers\bin\Debug\SquareNumbers.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\SquareNumbers\bin\Debug\SquareNumbers.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\SquareNumbers\bin\Debug\SquareNumbers.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\SquareNumbers\obj\Debug\SquareNumbers.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\SquareNumbers\obj\Debug\SquareNumbers.pdb

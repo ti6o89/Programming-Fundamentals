@@ -1,0 +1,6 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\AMinerTask\bin\Debug\AMinerTask.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\AMinerTask\obj\Debug\AMinerTask.csprojResolveAssemblyReference.cache
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\AMinerTask\bin\Debug\AMinerTask.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\AMinerTask\bin\Debug\AMinerTask.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\AMinerTask\obj\Debug\AMinerTask.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\AMinerTask\obj\Debug\AMinerTask.pdb

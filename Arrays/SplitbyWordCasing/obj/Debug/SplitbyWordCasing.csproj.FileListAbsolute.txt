@@ -1,0 +1,6 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\SplitbyWordCasing\bin\Debug\SplitbyWordCasing.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\SplitbyWordCasing\bin\Debug\SplitbyWordCasing.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\SplitbyWordCasing\bin\Debug\SplitbyWordCasing.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\SplitbyWordCasing\obj\Debug\SplitbyWordCasing.csprojResolveAssemblyReference.cache
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\SplitbyWordCasing\obj\Debug\SplitbyWordCasing.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\SplitbyWordCasing\obj\Debug\SplitbyWordCasing.pdb

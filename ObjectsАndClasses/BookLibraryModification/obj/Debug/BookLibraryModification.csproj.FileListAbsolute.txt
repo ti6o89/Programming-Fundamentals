@@ -1,0 +1,6 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\BookLibraryModification\bin\Debug\BookLibraryModification.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\BookLibraryModification\bin\Debug\BookLibraryModification.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\BookLibraryModification\bin\Debug\BookLibraryModification.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\BookLibraryModification\obj\Debug\BookLibraryModification.csprojResolveAssemblyReference.cache
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\BookLibraryModification\obj\Debug\BookLibraryModification.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\BookLibraryModification\obj\Debug\BookLibraryModification.pdb

@@ -1,0 +1,6 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\ReverseАnArrayОfIntegers\bin\Debug\ReverseАnArrayОfIntegers.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\ReverseАnArrayОfIntegers\bin\Debug\ReverseАnArrayОfIntegers.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\ReverseАnArrayОfIntegers\bin\Debug\ReverseАnArrayОfIntegers.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\ReverseАnArrayОfIntegers\obj\Debug\ReverseАnArrayОfIntegers.csprojResolveAssemblyReference.cache
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\ReverseАnArrayОfIntegers\obj\Debug\ReverseАnArrayОfIntegers.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\ReverseАnArrayОfIntegers\obj\Debug\ReverseАnArrayОfIntegers.pdb

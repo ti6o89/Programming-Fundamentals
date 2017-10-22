@@ -1,0 +1,5 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\FilesDirectoriesАndExceptions\FolderSize\bin\Debug\FolderSize.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\FilesDirectoriesАndExceptions\FolderSize\bin\Debug\FolderSize.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\FilesDirectoriesАndExceptions\FolderSize\bin\Debug\FolderSize.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\FilesDirectoriesАndExceptions\FolderSize\obj\Debug\FolderSize.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\FilesDirectoriesАndExceptions\FolderSize\obj\Debug\FolderSize.pdb

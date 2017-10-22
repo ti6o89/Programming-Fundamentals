@@ -1,0 +1,6 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\AppendLists\bin\Debug\AppendLists.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\AppendLists\bin\Debug\AppendLists.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\AppendLists\bin\Debug\AppendLists.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\AppendLists\obj\Debug\AppendLists.csprojResolveAssemblyReference.cache
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\AppendLists\obj\Debug\AppendLists.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\AppendLists\obj\Debug\AppendLists.pdb

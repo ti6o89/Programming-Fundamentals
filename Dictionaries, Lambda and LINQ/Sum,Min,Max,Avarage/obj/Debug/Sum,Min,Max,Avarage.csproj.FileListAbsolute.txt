@@ -1,0 +1,12 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Sum,Min,Max,Avarage\bin\Debug\Sum,Min,Max,Avarage.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Sum,Min,Max,Avarage\bin\Debug\Sum,Min,Max,Avarage.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Sum,Min,Max,Avarage\bin\Debug\Sum,Min,Max,Avarage.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Sum,Min,Max,Avarage\obj\Debug\Sum,Min,Max,Avarage.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Sum,Min,Max,Avarage\obj\Debug\Sum,Min,Max,Avarage.pdb
+E:\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Sum,Min,Max,Avarage\bin\Debug\Sum,Min,Max,Avarage.exe.config
+E:\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Sum,Min,Max,Avarage\bin\Debug\Sum,Min,Max,Avarage.exe
+E:\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Sum,Min,Max,Avarage\bin\Debug\Sum,Min,Max,Avarage.pdb
+E:\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Sum,Min,Max,Avarage\obj\Debug\Sum,Min,Max,Avarage.csprojResolveAssemblyReference.cache
+E:\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Sum,Min,Max,Avarage\obj\Debug\Sum,Min,Max,Avarage.csproj.CoreCompileInputs.cache
+E:\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Sum,Min,Max,Avarage\obj\Debug\Sum,Min,Max,Avarage.exe
+E:\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Sum,Min,Max,Avarage\obj\Debug\Sum,Min,Max,Avarage.pdb

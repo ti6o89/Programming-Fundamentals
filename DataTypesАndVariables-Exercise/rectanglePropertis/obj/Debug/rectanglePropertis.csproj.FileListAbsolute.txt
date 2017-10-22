@@ -1,0 +1,6 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\rectanglePropertis\bin\Debug\rectanglePropertis.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\rectanglePropertis\bin\Debug\rectanglePropertis.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\rectanglePropertis\bin\Debug\rectanglePropertis.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\rectanglePropertis\obj\Debug\rectanglePropertis.csprojResolveAssemblyReference.cache
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\rectanglePropertis\obj\Debug\rectanglePropertis.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\rectanglePropertis\obj\Debug\rectanglePropertis.pdb

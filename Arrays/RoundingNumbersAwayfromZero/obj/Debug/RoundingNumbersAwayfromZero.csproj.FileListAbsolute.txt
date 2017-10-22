@@ -1,0 +1,6 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\RoundingNumbersAwayfromZero\bin\Debug\RoundingNumbersAwayfromZero.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\RoundingNumbersAwayfromZero\bin\Debug\RoundingNumbersAwayfromZero.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\RoundingNumbersAwayfromZero\bin\Debug\RoundingNumbersAwayfromZero.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\RoundingNumbersAwayfromZero\obj\Debug\RoundingNumbersAwayfromZero.csprojResolveAssemblyReference.cache
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\RoundingNumbersAwayfromZero\obj\Debug\RoundingNumbersAwayfromZero.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\RoundingNumbersAwayfromZero\obj\Debug\RoundingNumbersAwayfromZero.pdb

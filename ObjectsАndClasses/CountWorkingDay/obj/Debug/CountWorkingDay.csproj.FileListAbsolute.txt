@@ -1,0 +1,6 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\CountWorkingDay\bin\Debug\CountWorkingDay.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\CountWorkingDay\bin\Debug\CountWorkingDay.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\CountWorkingDay\bin\Debug\CountWorkingDay.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\CountWorkingDay\obj\Debug\CountWorkingDay.csprojResolveAssemblyReference.cache
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\CountWorkingDay\obj\Debug\CountWorkingDay.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\CountWorkingDay\obj\Debug\CountWorkingDay.pdb

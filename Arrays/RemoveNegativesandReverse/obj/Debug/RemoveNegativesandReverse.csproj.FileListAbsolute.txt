@@ -1,0 +1,6 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\RemoveNegativesandReverse\bin\Debug\RemoveNegativesandReverse.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\RemoveNegativesandReverse\bin\Debug\RemoveNegativesandReverse.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\RemoveNegativesandReverse\bin\Debug\RemoveNegativesandReverse.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\RemoveNegativesandReverse\obj\Debug\RemoveNegativesandReverse.csprojResolveAssemblyReference.cache
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\RemoveNegativesandReverse\obj\Debug\RemoveNegativesandReverse.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\RemoveNegativesandReverse\obj\Debug\RemoveNegativesandReverse.pdb

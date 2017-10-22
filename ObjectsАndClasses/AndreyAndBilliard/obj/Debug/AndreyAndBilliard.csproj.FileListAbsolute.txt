@@ -1,0 +1,6 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\AndreyAndBilliard\bin\Debug\AndreyAndBilliard.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\AndreyAndBilliard\bin\Debug\AndreyAndBilliard.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\AndreyAndBilliard\bin\Debug\AndreyAndBilliard.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\AndreyAndBilliard\obj\Debug\AndreyAndBilliard.csprojResolveAssemblyReference.cache
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\AndreyAndBilliard\obj\Debug\AndreyAndBilliard.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\AndreyAndBilliard\obj\Debug\AndreyAndBilliard.pdb

@@ -1,0 +1,13 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\VowelOrDigit\bin\Debug\VowelOrDigit.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\VowelOrDigit\bin\Debug\VowelOrDigit.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\VowelOrDigit\bin\Debug\VowelOrDigit.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\VowelOrDigit\obj\Debug\VowelOrDigit.csprojResolveAssemblyReference.cache
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\VowelOrDigit\obj\Debug\VowelOrDigit.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\VowelOrDigit\obj\Debug\VowelOrDigit.pdb
+E:\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\VowelOrDigit\bin\Debug\VowelOrDigit.exe.config
+E:\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\VowelOrDigit\bin\Debug\VowelOrDigit.exe
+E:\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\VowelOrDigit\bin\Debug\VowelOrDigit.pdb
+E:\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\VowelOrDigit\obj\Debug\VowelOrDigit.csprojResolveAssemblyReference.cache
+E:\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\VowelOrDigit\obj\Debug\VowelOrDigit.csproj.CoreCompileInputs.cache
+E:\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\VowelOrDigit\obj\Debug\VowelOrDigit.exe
+E:\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\VowelOrDigit\obj\Debug\VowelOrDigit.pdb

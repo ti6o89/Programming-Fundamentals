@@ -1,0 +1,6 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\AvarageGrades\bin\Debug\AvarageGrades.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\AvarageGrades\bin\Debug\AvarageGrades.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\AvarageGrades\bin\Debug\AvarageGrades.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\AvarageGrades\obj\Debug\AvarageGrades.csprojResolveAssemblyReference.cache
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\AvarageGrades\obj\Debug\AvarageGrades.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\AvarageGrades\obj\Debug\AvarageGrades.pdb

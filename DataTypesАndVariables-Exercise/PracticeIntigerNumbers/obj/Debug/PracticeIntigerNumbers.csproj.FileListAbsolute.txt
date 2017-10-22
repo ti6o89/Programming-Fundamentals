@@ -1,0 +1,6 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\PracticeIntigerNumbers\bin\Debug\PracticeIntigerNumbers.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\PracticeIntigerNumbers\bin\Debug\PracticeIntigerNumbers.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\PracticeIntigerNumbers\bin\Debug\PracticeIntigerNumbers.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\PracticeIntigerNumbers\obj\Debug\PracticeIntigerNumbers.csprojResolveAssemblyReference.cache
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\PracticeIntigerNumbers\obj\Debug\PracticeIntigerNumbers.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\PracticeIntigerNumbers\obj\Debug\PracticeIntigerNumbers.pdb

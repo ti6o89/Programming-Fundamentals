@@ -1,0 +1,8 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\ObjectsАndClasses\SalesReport\bin\Debug\SalesReport.exe.config
+E:\SoftUni\Programming Fundamentals\ObjectsАndClasses\SalesReport\bin\Debug\SalesReport.exe.config
+E:\SoftUni\Programming Fundamentals\ObjectsАndClasses\SalesReport\bin\Debug\SalesReport.exe
+E:\SoftUni\Programming Fundamentals\ObjectsАndClasses\SalesReport\bin\Debug\SalesReport.pdb
+E:\SoftUni\Programming Fundamentals\ObjectsАndClasses\SalesReport\obj\Debug\SalesReport.csprojResolveAssemblyReference.cache
+E:\SoftUni\Programming Fundamentals\ObjectsАndClasses\SalesReport\obj\Debug\SalesReport.csproj.CoreCompileInputs.cache
+E:\SoftUni\Programming Fundamentals\ObjectsАndClasses\SalesReport\obj\Debug\SalesReport.exe
+E:\SoftUni\Programming Fundamentals\ObjectsАndClasses\SalesReport\obj\Debug\SalesReport.pdb

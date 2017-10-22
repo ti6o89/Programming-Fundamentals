@@ -1,0 +1,6 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.csprojResolveAssemblyReference.cache
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.pdb

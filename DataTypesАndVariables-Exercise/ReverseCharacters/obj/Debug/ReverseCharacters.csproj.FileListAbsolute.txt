@@ -1,0 +1,5 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\ReverseCharacters\bin\Debug\ReverseCharacters.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\ReverseCharacters\bin\Debug\ReverseCharacters.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\ReverseCharacters\bin\Debug\ReverseCharacters.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\ReverseCharacters\obj\Debug\ReverseCharacters.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\DataTypesАndVariables-Exercise\ReverseCharacters\obj\Debug\ReverseCharacters.pdb

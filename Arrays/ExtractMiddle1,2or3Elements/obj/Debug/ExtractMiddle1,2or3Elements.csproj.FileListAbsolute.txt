@@ -1,0 +1,6 @@
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\ExtractMiddle1,2or3Elements\bin\Debug\ExtractMiddle1,2or3Elements.exe.config
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\ExtractMiddle1,2or3Elements\bin\Debug\ExtractMiddle1,2or3Elements.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\ExtractMiddle1,2or3Elements\bin\Debug\ExtractMiddle1,2or3Elements.pdb
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\ExtractMiddle1,2or3Elements\obj\Debug\ExtractMiddle1,2or3Elements.csprojResolveAssemblyReference.cache
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\ExtractMiddle1,2or3Elements\obj\Debug\ExtractMiddle1,2or3Elements.exe
+C:\Users\27810\Desktop\SoftUni\Programming Fundamentals\Arrays\ExtractMiddle1,2or3Elements\obj\Debug\ExtractMiddle1,2or3Elements.pdb
